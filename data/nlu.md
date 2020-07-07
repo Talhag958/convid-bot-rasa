@@ -1,0 +1,608 @@
+## intent:greet
+- Hi
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- hi
+- hello
+- Namashkaar
+- What's up
+- what is up
+- Yo
+
+## intent:give_user_info
+- [ryan](name)
+- [nikhil](name)
+- [cedric](name)
+- [Jeff Cavaliere](name)
+- [Zlatan](name)
+- [joey](name) is my name
+- My name is [Kapoor](name)
+- [Krish Naik](name)
+- [Thomas](name)
+- [leo](name)
+- [Jashim](name)
+- [Charlie](name)
+- my name is [Shyam](name)
+- [Ram](name)
+- [Lucas](name)
+- [Pedro](name)
+- [James Bond](name)
+- [Anand](name)
+- [Abhishek](name)
+- [vivek](name)
+- [Marco](name)
+- [Joe](name)
+- [Praveen](name)
+- [kevin](name)
+- [Anirudh](name)
+- [Arun](name)
+- I am [Rohith](name)
+- [Adithya](name)
+- The name is [Jerry](name)
+- [Tom](name)
+- [Peter Parker](name)
+- [Blaszykowski](name)
+- [john](name)
+- [Erlich](name)
+- [Sudhanshu](name)
+- [Virat](name)
+- [Sai](name)
+- [bachmann](name)
+- [harper](name)
+- [Jishnu](name)
+- [Andrew](name)
+- [Kelly](name)
+- [Maxim](name)
+- [Jota](name)
+- [Alok](name)
+- [kavya madhavan](name)
+- [bhavana](name)
+- [kareena k](name)
+- [angelina jolie](name)
+- [benjamin franklin](name)
+- [gallileo gallei](name)
+- [amit shah](name)
+- [mike toreno](name)
+- [claude](name)
+- [job kurian](name)
+- [kevin hart](name)
+- [r keanu](name)
+- [anchal](name)
+- [ashish](name)
+- [amal jk](name)
+- [alexander kerensky](name)
+- [achyuth r](name)
+- [colin](name)
+- [kendl](name)
+- [winny mandela](name)
+- [abraham lincoln](name)
+- [donald trump](name)
+- [dhanya](name)
+- [divya](name)
+- [raman](name)
+- [suman](name)
+- [gopalan](name)
+- [adolf hitler](name)
+- [rihan](name)
+- [azin](name)
+- [mohammed amdan](name)
+- [anushka](name)
+- [katrina k](name)
+- [sanjana u](name)
+- [deepika padukone](name)
+- [samuel l jackson](name)
+- [anoop v](name)
+- [madonna sebastian](name)
+- [nivin pauly](name)
+- [salman dulquer](name)
+- [salman khan](name)
+- [heath ledger](name)
+- [jeeja](name)
+- [diya d](name)
+- [ammini](name)
+- [chithra](name)
+- [chanchal](name)
+- [helen keller](name)
+- [bhuvaneshwari](name)
+- [chadwick boseman](name)
+- [rohini p](name)
+- [anjana pradeesh](name)
+- [mohan kumar](name)
+- [susan wojcicki](name)
+- [Abhay](name)
+- [Abhinu](name)
+- [Abhinav](name)
+- [Achuth](name)
+- [Adarsh](name)
+- [Adesh](name)
+- [Adhar](name)
+- [Adi](name)
+- [Aditya](name)
+- [Ajay](name)
+- [Ajish](name)
+- [Ajit](name)
+- [Akhil](name)
+- [Akshat](name)
+- [Ashwin](name)
+- [Bali](name)
+- [Baltej](name)
+- [Bellamkonda](name)
+- [Bhagwant](name)
+- [Bharat](name)
+- [Bhavesh](name)
+- [Bhupinder](name)
+- [Bhushan](name)
+- [Bibek](name)
+- [Bibin](name)
+- [Biju](name)
+- [Binu](name)
+- [Chakrapani](name)
+- [Chandrajit](name)
+- [Dayanidhi](name)
+- [Debabrata](name)
+- [Devendra](name)
+- [Devesh](name)
+- [Dharanidhar](name)
+- [Dheeraj](name)
+- [Dhinakaran](name)
+- [Dileesh](name)
+- [Dipankar](name)
+- [Dnyandeo](name)
+- [Dilroopa](name)
+- [Shivapriya](name)
+- [Thamannah](name)
+- [Ekram](name)
+- [Elangovan](name)
+- [Harish](name)
+- [Harjit](name)
+- [Harmeet](name)
+- [Harsh](name)
+- [Hemant](name)
+- [Hitesh](name)
+- [Ira](name)
+- [Ishana](name)
+- [Jaipal](name)
+- [Jalaj](name)
+- [Jayant](name)
+- [Kalimuthu](name)
+- [Sushma](name)
+- [Susmita](name)
+- [Tanisha](name)
+- [Tanushree](name)
+- [Tejal](name)
+- [Tejaswi](name)
+- [Tina](name)
+- [Uma](name)
+- [Uzma](name)
+- [Varsha](name)
+- [Vibha](name)
+- [Vijayalakshmi](name)
+- [Yamini](name)
+- [Yashomati](name)
+- [pricesscool@gmail.com](email)
+- my email id is [abc@xyz.com](email)
+- my mail id is [arun12@gmail.com](email)
+- [johnreeves37834@hotmail.com](email)
+- my business mail is [s_Dibenedetto@Simpson.net](email)
+- it is [Carole@Hart.com](email)
+- my email is [Elinor_Stock@Higgenbotham.com](email)
+- my email is [K_Spivey@yahoo.com](email)
+- my email is [Kelly@Coulter.net](email)
+- my email is [M_Jones@Luna.com](email)
+- email id is [Mia_Gainey@gmail.com](email)
+- my email is [S_Calderon@Cofield.com](email)
+- my email is [Virginia@Brown.com](email)
+- my emayl is [V_Comley@Nelson.com](email)
+- [flowersblooms45@reddit.com](email)
+- Mail id is [Parker123@gmail.com](email)
+- [Blascy@gmail.com](email)
+- okay , it's [erlichbachman72@aviato.com](email)
+- [nitin_cool123@hotmail.net](email)
+- [herbertking@yahoo.com](email)
+- [673032](pincode)
+- [657833](pincode)
+- my pin code is [120277](pincode)
+- my pin code is [836602](pincode)
+- my pin code is [474516](pincode)
+- i am at [771044](pincode).
+- i stay at [547025](pincode)
+- pin code is [342081](pincode)
+- it is [635582](pincode)
+- the pincode is [844004](pincode)
+- pincode [458760](pincode)
+- [123456](pincode)
+- sure it is [905678](pincode)
+- I live at [340001](pincode)
+- I am located at [987511](pincode)
+- pincode is [123456](pincode)
+- continue , my pincode is [603010](pincode)
+- [680008](pincode)
+- [223445](pincode)
+- [9236478236](mobnumber)
+- sure it is [9357724413](mobnumber)
+- my contact number is [8075430831](mobnumber)
+- my number is [7703486422](mobnumber)
+- Contact me at [8089447356](mobnumber)
+- it's [9447567341](mobnumber)
+- [8983617830](mobnumber)
+- [9957314135](mobnumber)
+- [8182367744](mobnumber)
+- Yeah it is [9845518855](mobnumber)
+- My mobile number is [9295671120](mobnumber)
+- My cell is [8786858483](mobnumber)
+- You can reach me at [7756993412](mobnumber)
+- mobile number is [9296452144](mobnumber)
+- my mobile number is [9674351265](mobnumber)
+- It is [9447277030](mobnumber)
+- [9496347600](mobnumber)
+- [9678367586](mob_number)
+- [caseyy@gmail.com](email)
+- [676364](pincode)
+- okay, I am [Shiva](name)
+- hmm, alright. It's [shiva32a@yahoo.com](email)
+- sure, it is [363244](pincode)
+- Okay it is , [9943556600](mobnumber)
+- I am [Rodrigo](name)
+- [Rodri@gmail.com](email)
+- [312245](pincode)
+- [9946788812](mobnumber)
+
+## intent:mail_me
+- mail me reports
+- mail me precautionary measures
+- I want reports mailed
+- can you sent me the reports to my mail
+- sent mail
+- sent me the mail
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+- Nothing , Bye
+- okay, take care
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+- ye
+- uh yes
+- let's do it
+- yeah
+- yes knocking
+- that's correct
+- yes yes
+- right
+- yea
+- right on
+- i love that
+
+## intent:deny
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+- no continue
+- I don't want to tell you my email id.
+- I don't want to tell you my pin code.
+- Not going to tell you.
+- don't want to tell you
+- sorry , not interested.
+- don't want to disclose that information.
+- can't give.
+- not interested
+- sorry
+- nop
+
+## intent:mood_great
+- perfect
+- very good
+- great
+- amazing
+- wonderful
+- I am feeling very good
+- I am great
+- I'm good
+
+## intent:mood_unhappy
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+- who are you
+- what are you
+- do you have corona
+- can you get corona
+- do you have covid
+- do you get covid
+- what do you do
+- what are you up to
+- are you working
+- can i talk to you
+- can we talk
+
+## intent:thank_bot
+- Thank you
+- That was helful
+- Thanks!
+- Thanks a lot
+- Thanks a bunch
+- Thank you bot
+- TY bot.
+- Yuu are the best.
+- thanks for your help
+- thank you for your help
+- thanks mate.
+
+## intent:corona_intro
+- What is corona virus
+- what is covid
+- what is a novel corona virus
+- what is covid-19
+- tell me about corona
+- can you tell me about covid
+
+## intent:covid_symptom_doubt
+- do i have covid
+- do I have corona
+- I have corona
+- I have covid
+- will corona get me
+- will I get covid
+- check for covid
+- check for corona
+- I have sore throat
+- is it covid
+- is it corona
+- how is it covid
+- how is it corona
+- I want to check for covid
+- i have symptoms of covid
+- Do I have covid
+- I have cough
+- I went to a public place
+- how long will it take to get covid
+- what are the symptoms of corona
+- what are the symptoms of covid
+- give me the symptoms of the disease
+- get me symptoms
+- covid symptoms
+- should I go to the hospital
+- do i need to go to the hospital
+- do i need to go to the doctor
+- should i see a doctor
+- should I even see a doctor
+- should I go for a check up
+- check up
+- symptoms
+- hospital
+- help me
+- check me
+- doctor
+
+## intent:corona_spread
+- how does corona virus spread
+- how does the virus spread
+- how it spread
+- mode of spreading
+- how do you get covid
+- how covid spreads
+
+## intent:corona_food_spread
+- Does corona spread from food
+- how will corona spread from food
+- does it spread through food
+
+## intent:warm_weather
+- will warm weather stop the spread
+- will it stop with warm weather
+- can warm weather stop the virus
+- what about warm weather
+
+## intent:high_risk
+- who is at a higher risk of infection
+- who are most vulnerable to it
+- who are most vulnerable to get infected
+- who can get the virus most
+- who are most likely to get infected
+
+## intent:ask_worldwide
+- worldwide
+- total cases
+- how many cases worldwide
+- world
+- earth
+- planet
+- what is total number of cases
+- total no of cases worldwide
+- whole world
+- whole wide world
+- cases worldwide
+- how many world
+- worldwide reported cases
+- entire world
+- total
+- across the globe
+- global
+- how many cases globally
+- cases globally
+- total cases globally
+
+## intent:ask_visual
+- visual
+- show me a data visual
+- I want to see visual
+- visual representation
+- visual data
+- map data of the world
+- map it
+- plot it
+- plot data
+- picture
+- send me a pic
+- pic
+- graph
+- show me graph
+- graphical data
+- graphical across the world
+- Map
+- Show map
+- world map
+- worldwide map
+- map world
+- total map visual
+- data visualisation
+- global map
+- show map globally
+- pictorial representation
+- Diagram
+- show a diagram
+- plot
+- give a plot
+- world map plot
+
+## intent:ask_countrywise
+- [India](country)
+- [Antigua and Barbuda](country)
+- [Argentina](country)
+- [Armenia](country)
+- [Australia](country)
+- what is the stats of [Austria](country)
+- [Bhutan](country)
+- [Bolivia](country)
+- [Bosnia and Herzegovina](country)
+- [Senegal](country)
+- [Brunei](country)
+- [Bulgaria](country)
+- [Burkina Faso](country)
+- [Burundi](country)
+- [Central African Republic](country)
+- [Azerbaijan](country)
+- [Czech Republic](country)
+- [Denmark](country)
+- [Djibouti](country)
+- [Dominica](country)
+- [Dominican Republic](country)
+- [East Timor](country)
+- [Ecuador](country) count
+- [Egypt](country)
+- [El Salvador](country)
+- [Fiji](country)
+- [Finland](country)
+- [France](country)
+- [Gabon](country)
+- [The Gambia](country)
+- [Georgia](country)
+- [Guinea](country)
+- [Guinea-Bissau](country)
+- [Guyana](country)
+- [Haiti](country)
+- [Honduras](country)
+- [Iceland](country)
+- [Israel](country)
+- [Italy](country)
+- how many in [Japan](country)
+- [Jordan](country)
+- [Kiribati](country)
+- [North Korea,](country)
+- [South Korea,](country)
+- [Kyrgyzstan](country)
+- [Laos](country)
+- [Latvia](country)
+- [Lebanon](country)
+- [Lesotho](country)
+- [Luxembourg](country)
+- [Madagascar](country)
+- [Malawi](country)
+- [Mexico](country)
+- [Micronesia](country)
+- [Moldova](country)
+- [Mozambique](country)
+- [Myanmar](country)
+- [Namibia](country)
+- [Nauru](country)
+- [North Macedonia](country)
+- [Papua New Guinea](country)
+- [Paraguay](country)
+- [Peru](country)
+- [Philippines](country)
+- [Qatar](country)
+- [Romania](country)
+- [Russia](country)
+- [Rwanda](country)
+- [Slovenia](country)
+- [Solomon Islands](country)
+- [Saint Kitts and Nevis](country)
+- [Saint Lucia](country)
+- [Saint Vincent and the Grenadines](country)
+- [Samoa](country)
+- [San Marino](country)
+- [Sao Tome and Principe](country)
+- [Sri Lanka](country)
+- [Sudan](country)
+- [Tajikistan](country)
+- [Tanzania](country)
+- [Thailand](country)
+- [Togo](country)
+- [Sweden](country)
+- [Switzerland](country)
+- [Syria](country)
+- [Taiwan](country)
+- [Tonga](country)
+- [Trinidad and Tobago](country)
+- [United Arab Emirates](country)
+- [United Kingdom](country)
+- [United States](country)
+- [Uruguay](country)
+- [Uzbekistan](country)
+- [Vatican City](country)
+- [Zambia](country)
+- [Zimbabwe](country)
+
+## intent:start
+- /start
+
+## regex:email
+- ^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+.[a-zA-Z]{2,}$
+
+## regex:mobnumber
+- [0-9]{10}
+
+## regex:pincode
+- [0-9]{6}
+
+## lookup:countries.txt
+  /app/git/1/data/countries.txt
+
+## lookup:names.txt
+  /app/git/1/data/names.txt
